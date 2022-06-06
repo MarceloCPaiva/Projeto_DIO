@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /*font-size: 62.5%;*/
+}
+
+.main_image {
+  text-align: center;
+  margin: auto;
+}
+.main_image img {
+  width: 10%;
+}
+
+#title,
+.subtitle,
+.post_title {
+  color: hsl(270, 87%, 12%);
+}
+
+.post_title {
+  font-size: 1rem;
+  font-style: italic;
+}
