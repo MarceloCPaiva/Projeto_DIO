@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex {
+  max-width: 300px;
+  padding: 10px;
+  border: 2px solid #000;
+  display: flex;
+}
+
+.item {
+  background-color: #00ffff;
+  margin: 5px;
+}
